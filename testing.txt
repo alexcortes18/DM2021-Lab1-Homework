@@ -1,0 +1,260 @@
+Cluster 0
+ great
+ place
+ best
+ nice
+ disappointed
+ battery
+ sound
+ use
+ quality
+ ear
+
+
+Cluster 1
+ love
+ movie
+ film
+ phone
+ great
+ place
+ good
+ worth
+ headset
+ want
+
+
+Cluster 2
+ works
+ great
+ fine
+ phone
+ good
+ time
+ just
+ battery
+ movie
+ headset
+
+
+Cluster 3
+ phone
+ great
+ ve
+ best
+ good
+ new
+ got
+ worst
+ did
+ use
+
+
+Cluster 4
+ time
+ waste
+ film
+ long
+ ve
+ poor
+ worth
+ headset
+ money
+ great
+
+
+Cluster 5
+ good
+ quality
+ price
+ way
+ real
+ place
+ far
+ right
+ case
+ did
+
+
+Cluster 6
+ like
+ film
+ did
+ phone
+ use
+ place
+ service
+ movies
+ just
+ camera
+
+
+Cluster 7
+ excellent
+ service
+ headset
+ product
+ film
+ phone
+ sound
+ case
+ good
+ restaurant
+
+
+Cluster 8
+ bad
+ movie
+ service
+ acting
+ film
+ just
+ food
+ way
+ script
+ little
+
+
+Cluster 9
+ thing
+ like
+ good
+ really
+ didn
+ came
+ restaurant
+ acting
+ way
+ love
+
+
+Cluster 10
+ movie
+ way
+ lot
+ little
+ seen
+ acting
+ film
+ use
+ good
+ great
+
+
+Cluster 11
+ recommend
+ highly
+ definitely
+ product
+ place
+ really
+ phone
+ movie
+ great
+ don
+
+
+Cluster 12
+ film
+ just
+ look
+ great
+ right
+ real
+ experience
+ good
+ story
+ screen
+
+
+Cluster 13
+ service
+ great
+ terrible
+ friendly
+ worst
+ best
+ poor
+ nice
+ good
+ pretty
+
+
+Cluster 14
+ don
+ waste
+ think
+ time
+ know
+ money
+ make
+ like
+ food
+ just
+
+
+Cluster 15
+ food
+ service
+ great
+ good
+ place
+ came
+ delicious
+ quality
+ like
+ friendly
+
+
+Cluster 16
+ product
+ great
+ good
+ don
+ quality
+ happy
+ really
+ price
+ like
+ wasn
+
+
+Cluster 17
+ does
+ work
+ phone
+ just
+ little
+ time
+ movie
+ product
+ better
+ know
+
+
+Cluster 18
+ really
+ good
+ like
+ place
+ movie
+ didn
+ great
+ got
+ nice
+ work
+
+
+Cluster 19
+ better
+ ve
+ make
+ experience
+ sound
+ right
+ quality
+ place
+ acting
+ film
+
+
